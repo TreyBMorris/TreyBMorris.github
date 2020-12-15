@@ -57,14 +57,8 @@ authors:
     name: Trey Morris
     bio: Computer Science Student
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: https://avatars3.githubusercontent.com/u/24595938?s=460&u=ad8aa00df53c02a52ffdca2a17eba7aaa7edb882&v=4
     #twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
