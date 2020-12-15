@@ -7,13 +7,13 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://avatars3.githubusercontent.com/u/24595938?s=460&u=ad8aa00df53c02a52ffdca2a17eba7aaa7edb882&v=4
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://sergiokopplin.github.io/indigo
