@@ -6,7 +6,7 @@ layout: page
 
 <h1>About Me</h1>
 
-<p>I'm a 18 year old highschool student. Since a young age I have had a passion and a deep interest in computers and a desire to always want to learn more about computing. Starting in Janurary 2021, I will begin my first computing class with AP Computer Science AB and will graduate high school in May of 2021. In the Fall of 2021, I will start my college career at Kennesaw State University. I will be working on an undergraduate degree in Computer Science. While at Kennesaw State, I plan on participating in an internship or co-op program for real industry experience. This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects.</p>
+<p>I'm an 18 year old highschool student. Since a young age I have had a passion and a deep interest in computers and a desire to always want to learn more about computing. Starting in Janurary 2021, I will begin my first computing class with AP Computer Science AB and will graduate high school in May of 2021. In the Fall of 2021, I will start my college career at Kennesaw State University. I will be working on an undergraduate degree in Computer Science. While at Kennesaw State, I plan on participating in an internship or co-op program for real industry experience. This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects.</p>
                 
     
 
