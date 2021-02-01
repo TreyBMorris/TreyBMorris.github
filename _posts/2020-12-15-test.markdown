@@ -27,6 +27,10 @@ AP Computer Science and what I have learned so far...
 #### Methods
 - String Methods
 - Math Method
+
+#### If Else Statements
+- Making a method on how to take user input and determine if number is odd or even
+
 ---
 
 
