@@ -1,16 +1,16 @@
 ---
 title: "AP Computer Science Update 1/31/21"
 layout: post
-date: 2020-12-15 
+date: 2021-01-31 
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- Java
+- Primitive Variables
+- AP Computer Science
 category: blog
 author: treymorris
-description: Markdown summary with different options
+description: AP Computer Science AB Update
 ---
 
 ## Intro:
