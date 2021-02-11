@@ -20,11 +20,9 @@ layout: page
 <h2>Career Aspirations</h2>
 
 <ul class="career-aspirations">
-	<li>Graduate College with a 3.5+ GPA/li>
-	<li>Job Aspiration- Fulltime Developer at Disney, or any other company</li>
-	
+	<li>Graduate College with a 3.5+ GPA</li>
+	<li>Job Aspiration- Fulltime Developer at Disney, or any other company</li>	
 </ul>
-
 <h2>Projects</h2>
 
 <ul>
