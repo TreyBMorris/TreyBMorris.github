@@ -7,11 +7,11 @@ headerImage: false
 hidden: true
 tag:
 - Java
-- Primitive Variables
+- School Project
 - AP Computer Science
 category: blog
 author: treymorris
-description: AP Computer Science AB Update
+description: AP Computer Science Password Generator Project Description
 ---
 
 ## Intro:
