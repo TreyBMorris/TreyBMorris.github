@@ -28,7 +28,8 @@ layout: page
 <ul>
 	<li><a href="https://github.com/TreyBMorris/FizzBuzz">Original FizzBuzz written in Java November 2019.</a></li>
 	<li><a href="https://github.com/TreyBMorris/FizzBuzzCSharp">FizzBuzz Test, rewritten into C#</a></li>
-	<li><a href="https://github.com/TreyBMorris/PythonPasswordGenerator">Python Password Generator</a></li>
+	<li><a href="https://github.com/TreyBMorris/Password-Generator-Java">Java Password Generator 1.0</a></li>
+	
 	
 </ul>
 
