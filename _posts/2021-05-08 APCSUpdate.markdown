@@ -18,7 +18,7 @@ Now that I have taken my AP Exam, and that I have officially finished my AP Comp
 
 As a result of this class completing, it is my last academic for high school and I will officially graduate high school May 28th, 2021. In August, I will officially begin my career as a Computer Science student at Kennesaw State University. Very excited for the future. More blog posts will come as I progress in my career to cover more topics in Computer Science and what I am learning. 
 
-Thanks for reading! - Trey Morris (18)
+Thanks for reading! - Trey Morris
 
 
 
