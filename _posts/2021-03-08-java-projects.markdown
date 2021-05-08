@@ -1,7 +1,7 @@
 ---
 title: ":coffee: Java Projects :coffee:"
 layout: post
-date: 
+date: false
 tag: Java Projects
 image: 
 headerImage: false
