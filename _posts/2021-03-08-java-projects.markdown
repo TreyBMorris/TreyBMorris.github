@@ -1,13 +1,13 @@
 ---
 title: ":coffee: Java Projects :coffee:"
 layout: post
-date: 2021-03-08
+date: 
 tag: Java Projects
 image: 
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: Projects written in Java
+description: Java Projects
 category: project
 author: treymorris
 externalLink: false
