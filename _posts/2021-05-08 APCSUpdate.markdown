@@ -1,14 +1,12 @@
 ---
-title: "AP Computer Science Update 5/8/2021"
+title: "AP Computer Science Final Update 5/8/2021"
 layout: post
 date: 2021-05-2021
 image: /assets/images/markdown.jpg
 headerImage: false
-
 tag:
 - Java
 - AP Computer Science
-- AP Computer Science Exam
 category: blog
 author: treymorris
 description: AP Computer Science Final Update
