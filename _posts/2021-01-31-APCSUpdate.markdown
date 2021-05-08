@@ -4,6 +4,7 @@ layout: post
 date: 2021-01-31 
 image: /assets/images/markdown.jpg
 headerImage: false
+hidden: true
 tag:
 - Java
 - Primitive Variables
