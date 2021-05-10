@@ -65,7 +65,8 @@ More about the lab can be found [here](https://apcentral.collegeboard.org/pdf/ap
 
 
 
-####Links to 
+#### Links to resources
+
 Sinbad can be found [here](http://berry-cs.github.io/sinbad/).
 The .csv file used for data can be found [here](https://data.world/aaronhoffman/us-general-election-2012)
 
@@ -76,4 +77,4 @@ The .csv file used for data can be found [here](https://data.world/aaronhoffman/
 
 ---
 
-Check out the project on github(https://github.com/TreyBMorris/2012GeneralElectionResultsSearch) [here].
+Check out the project on github [here](https://github.com/TreyBMorris/2012GeneralElectionResultsSearch).
