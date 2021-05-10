@@ -15,8 +15,9 @@ All projects are stored on my Github Page and can be found below through the Git
 
 #### List of Project Names on Github:
 
-- FizzBuzz Project
+- FizzBuzz 
 - Password Generator
+- 2012 Election Results Search 
 
 
 ---
