@@ -59,20 +59,16 @@ for (Results el : results)
 ### Conclusion
 
 
-This lab was called the DataLab and included basic topics of Data Science and the how it connects with modern day techonology and the studies of Computer Science.
-More about the lab can be found [here](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-data-lab-student-guide.pdf)
+This project was apart of a lab called the DataLab and included basic topics of Data Science and the how it connects with modern day techonology and the studies of Computer Science.
+More about the lab can be found [here](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-data-lab-student-guide.pdf).
 
 
 
 
 #### Links to resources
 
-Sinbad can be found [here](http://berry-cs.github.io/sinbad/).
-The .csv file used for data can be found [here](https://data.world/aaronhoffman/us-general-election-2012)
-
-
----
-
+* Sinbad can be found [here](http://berry-cs.github.io/sinbad/).
+* The .csv file used for data can be found [here](https://data.world/aaronhoffman/us-general-election-2012)
 
 
 ---
