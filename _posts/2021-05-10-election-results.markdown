@@ -23,20 +23,50 @@ This was my first use of external libraries within java. With this project I use
 
 
 ### More about the project.
-In this project, I used two main classes, the main DataProject.java file and the Results.java file. The DataProject.java file contains the main method and the Scanner object that intakes user input where you can input the county name and state abbreviation. This is to be able to give a more and precise result when the program is used and return the election data. 
+In this project, I used two main classes, the main DataProject.java file and the Results.java file. The DataProject.java file contains the main method and the Scanner object that intakes user input where you can input the county name and state abbreviation. This is to be able to give a more and precise result when the program is used and return the election data. The documentation from the Sinbad library to complete this project and how to use methods from the library. 
 
+#### A snip of code from the project can be found below.
 
 {% highlight java %}
 // This is the import of the .csv file and loading it into the program
 DataSource electionResults = DataSource.connect("lib/us-election-2012-results-by-county - us-election-2012-results-by-county.csv");
         electionResults.load();
-// This is where the information is stored in an ArrayList using methods from the sinbad library ."fetchList"
+// This is where the information is stored in an ArrayList using a method from the sinbad library ."fetchList"
  ArrayList<Results> results = electionResults.fetchList("Results","FirstName","LastName","Party","CountyName","StateCode","Votes");
 
 
 {% endhighlight %}
 
-Sinbad can be found [Here](http://berry-cs.github.io/sinbad/)
+#### A second snip of code showing my usage of a for-each loop with two if statements nested within it.
+{% highlight java %}
+//For-Each loop with el being short for elements
+for (Results el : results) 
+        {
+            if (el.isLocatedInCounty(county))
+            {
+                if (el.isLocatedInState(state))
+                {
+                    //Return the method calls from second class Results.java that candidate name, party name, vote county along with the county name and state name from user input.
+                    System.out.println(el.getName() +" Representing the " + el.partyAbrev() + " party received " + el.getVoteCount() + " votes in " + el.countyName() +" County, in the state of " + el.stateName() + " in the 2012 election.");
+                }
+
+
+{% endhighlight %}
+
+
+
+### Conclusion
+
+
+This lab was called the DataLab and included basic topics of Data Science and the how it connects with modern day techonology and the studies of Computer Science.
+More about the lab can be found [here](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-data-lab-student-guide.pdf)
+
+
+
+
+
+Sinbad can be found [here](http://berry-cs.github.io/sinbad/)
+The .csv file used for data can be found [here](https://data.world/aaronhoffman/us-general-election-2012)
 
 
 ---
