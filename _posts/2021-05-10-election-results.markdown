@@ -1,9 +1,7 @@
 ---
 title: ":ballot_box: 2012 Election Results Searcher :ballot_box:"
 layout: post
-tag: 
--Java
--Project
+tag: Java Project
 date: 2021-05-10
 image: 
 headerImage: false
