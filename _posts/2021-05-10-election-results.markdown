@@ -46,7 +46,8 @@ for (Results el : results)
             {
                 if (el.isLocatedInState(state))
                 {
-                    //Return the method calls from second class Results.java that candidate name, party name, vote county along with the county name and state name from user input.
+                    /*Return the method calls from second class Results.java that candidate name, party name,
+                    vote county along with the county name and state name from user input. */
                     System.out.println(el.getName() +" Representing the " + el.partyAbrev() + " party received " + el.getVoteCount() + " votes in " + el.countyName() +" County, in the state of " + el.stateName() + " in the 2012 election.");
                 }
 
@@ -64,8 +65,8 @@ More about the lab can be found [here](https://apcentral.collegeboard.org/pdf/ap
 
 
 
-
-Sinbad can be found [here](http://berry-cs.github.io/sinbad/)
+####Links to 
+Sinbad can be found [here](http://berry-cs.github.io/sinbad/).
 The .csv file used for data can be found [here](https://data.world/aaronhoffman/us-general-election-2012)
 
 
@@ -75,4 +76,4 @@ The .csv file used for data can be found [here](https://data.world/aaronhoffman/
 
 ---
 
-[Check out on Github ](https://github.com/TreyBMorris/2012GeneralElectionResultsSearch) here.
+Check out the project on github(https://github.com/TreyBMorris/2012GeneralElectionResultsSearch) [here].
