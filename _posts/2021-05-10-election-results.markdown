@@ -23,9 +23,18 @@ This was my first use of external libraries within java. With this project I use
 
 
 ### More about the project.
-In this project
+In this project, I used two main classes, the main DataProject.java file and the Results.java file. The DataProject.java file contains the main method and the Scanner object that intakes user input where you can input the county name and state abbreviation. This is to be able to give a more and precise result when the program is used and return the election data. 
 
 
+{% highlight java %}
+// This is the import of the .csv file and loading it into the program
+DataSource electionResults = DataSource.connect("lib/us-election-2012-results-by-county - us-election-2012-results-by-county.csv");
+        electionResults.load();
+// This is where the information is stored in an ArrayList using methods from the sinbad library ."fetchList"
+ ArrayList<Results> results = electionResults.fetchList("Results","FirstName","LastName","Party","CountyName","StateCode","Votes");
+
+
+{% endhighlight %}
 
 Sinbad can be found [Here](http://berry-cs.github.io/sinbad/)
 
