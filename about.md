@@ -6,7 +6,7 @@ layout: page
 
 <h1>About Me</h1>
 
-<p>I'm an 18 year year old college student. Since a young age I have had a passion and a deep interest in computers and a desire to always want to learn more about computing. I am currently a computer science student at Kennesaw State University in Marietta, Georgia. I am working on an undergraduate degree in Computer Science. While at Kennesaw State, I plan on participating in an internship or co-op program for real industry experience, as well as study abroad opportunities in Europe. This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects.</p>
+<p>My name is Trey Morris, I'm an 18 year year old college student. Since a young age I have had a passion and a deep interest in computers and a desire to always want to learn more about computing. I am currently a computer science student at Kennesaw State University in Marietta, Georgia. I am working on an undergraduate degree in Computer Science. While at Kennesaw State, I plan on participating in an internship or co-op program for real industry experience, as well as study abroad opportunities in Europe. This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects.</p>
                 
     
 
@@ -23,7 +23,7 @@ layout: page
 
 <ul class="career-aspirations">
 	<li>Graduate College with a 3.5+ GPA</li>
-	<li>Job Aspiration- Fulltime Developer at Disney, or any other company</li>	
+	<li>Job Aspiration- Fulltime Software Developer</li>	
 </ul>
 <h2>Projects</h2>
 
