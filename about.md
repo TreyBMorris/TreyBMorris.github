@@ -8,7 +8,10 @@ layout: page
 
 <p>My name is Trey Morris, and I like computers.</p>
 
-<p> I'm an 18 year year old college student. Since a young age I have had a passion and a deep interest in computers and a desire to always want to learn more about computing. I am currently a computer science student at Kennesaw State University in Marietta, Georgia. I am working on an undergraduate degree in Computer Science. While at Kennesaw State, I plan on participating in an internship or co-op program for real industry experience, as well as study abroad opportunities in Europe in Gemrany or another German speaking country.</p>
+<p> Since a young age I have had a passion and a deep interest in computers and a desire to always want to learn more about computing. I am currently a computer science student at Kennesaw State University in Marietta, Georgia. I am working on an undergraduate degree in Computer Science.</p>
+
+<p> While in school, I plan on participating in an internship or co-op program for real industry experience, as well as study abroad opportunities in Europe in Gemrany or another German speaking country.</p>
+
 <p> This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects.</p>
                 
     
