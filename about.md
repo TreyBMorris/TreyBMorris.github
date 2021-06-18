@@ -15,7 +15,8 @@ layout: page
 <ul class="skill-list">
 	<li>Basic Knowledge of Elementary Java</li>
 	<li>Basic HTML Skills</li>
-	<li>Learning Fundementals of Programming Languages such as C# and Python</li>
+	<li>Learning Fundementals of Programming Languages such as C#, Python, and C.</li>
+	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>
 	
 	
 </ul>
