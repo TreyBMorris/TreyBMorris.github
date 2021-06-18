@@ -19,7 +19,7 @@ layout: page
 	<li>Basic HTML Skills</li>
 	<li>Fundementals of Programming Languages such as C#, Python, and C.</li>
 	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>
-	<li>Basic Understanding and usage of System Virtual Machines(<a href="https://www.virtualbox.org/">VirtualBox</a>)</li>
+	<li>Basic Understanding of Installation and Usage of System Virtual Machines(ex.<a href="https://www.virtualbox.org/">VirtualBox</a>)</li>
 	
 	
 </ul>
