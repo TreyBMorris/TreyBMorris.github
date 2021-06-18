@@ -13,7 +13,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Familiar with writing Java including Arrays, Strings, Iterations, ect.</li>
+	<li>Familiar with writing Java including Arrays, Strings, Iterations, ect.(See AP Computer Science Blog posts <a href="http://github.com/TreyBMorris/blog">here</a>)</li>
 	<li>Basic HTML Skills</li>
 	<li>Fundementals of Programming Languages such as C#, Python, and C.</li>
 	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>
