@@ -10,7 +10,7 @@ layout: page
 
 <p> Since a young age I have had a passion with a deep interest in computers and a desire to always want to learn more about computing. I am currently a computer science student at Kennesaw State University in Marietta, Georgia, where I am working on an undergraduate degree in Computer Science.</p>
 
-<p> While in school, I plan on participating in an internship or co-op program for real industry experience, as well as study abroad opportunities in Europe in Gemrany or another German speaking country.</p>
+<p> While in school, I plan on participating in an internship or co-op program for real industry experience, as well as study abroad opportunities in Europe in Germany or another German speaking country.</p>
 
 <p> This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects.</p>
                 
