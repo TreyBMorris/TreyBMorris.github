@@ -36,11 +36,16 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/TreyBMorris/FizzBuzz">Original FizzBuzz written in Java November 2019.</a></li>
+	<li><a href="https://github.com/TreyBMorris/FizzBuzz">FizzBuzz Test, written in Java, November 2019.</a></li>
 	<li><a href="https://github.com/TreyBMorris/FizzBuzzCSharp">FizzBuzz Test, rewritten into C#</a></li>
 	<li><a href="https://github.com/TreyBMorris/Password-Generator-Java">Java Password Generator 1.0</a></li>
 	
 	
 </ul>
+
+<h3><strong>Contact Me</strong></h3>
+	<li>Github:<a href="https://github.com/TreyBMorris"></a>treybmorris</li>
+	<li>LinkedIn<a href="https://www.linkedin.com/in/trey-morris-98b110211/"></a>Trey Morris</li>
+	<li>Email:<a href="mailto:trey@morris2morris.com">trey@morris2morris.com</a></li>
 
 
