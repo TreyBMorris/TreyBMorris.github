@@ -44,8 +44,10 @@ layout: page
 </ul>
 
 <h3><strong>Contact Me</strong></h3>
+	<ul>
 	<li>Github:<a href="https://github.com/TreyBMorris"></a>treybmorris</li>
 	<li>LinkedIn<a href="https://www.linkedin.com/in/trey-morris-98b110211/"></a>Trey Morris</li>
 	<li>Email:<a href="mailto:trey@morris2morris.com">trey@morris2morris.com</a></li>
+	</ul>
 
 
