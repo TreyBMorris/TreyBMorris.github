@@ -19,9 +19,8 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Familiar with writing Java including Arrays, Strings, Iterations, ect.(See AP Computer Science Blog posts <a href="https://treybmorris.github.io/blog/">here</a>)</li>
 	<li>Basic HTML Skills</li>
-	<li>Fundementals of Programming Languages such as C#, Python, and C.</li>
+	<li>Fundementals of Programming Languages such as Java and C#.</li>
 	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>
 	<li>Basic Understanding of Installation and Usage of System Virtual Machines(ex.<a href="https://www.virtualbox.org/">VirtualBox</a>)</li>
 	
@@ -35,9 +34,10 @@ layout: page
 </ul>
 <h2>Projects</h2>
 
-<ul>
+<ul>'
+	<li><a href = "https://github.com/TreyBMorris/2012GeneralElectionResultsSearch">2012 Presidential General Election Result Searcher.</a></li>
 	<li><a href="https://github.com/TreyBMorris/FizzBuzz">FizzBuzz Test, written in Java, November 2019.</a></li>
-	<li><a href="https://github.com/TreyBMorris/FizzBuzzCSharp">FizzBuzz Test, rewritten into C#</a></li>
+	<li><a href="https://github.com/TreyBMorris/FizzBuzzCSharp">FizzBuzz Test, rewritten into C#.</a></li>
 	<li><a href="https://github.com/TreyBMorris/Password-Generator-Java">Java Password Generator 1.0</a></li>
 	
 	
