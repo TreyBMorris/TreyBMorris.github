@@ -4,7 +4,7 @@ layout: post
 date: 2021-03-08
 image: /assets/images/markdown.jpg
 headerImage: false
-hidden: false
+hidden: true
 tag:
 - Java
 - School Project

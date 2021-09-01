@@ -4,7 +4,7 @@ layout: post
 date: 2021-04-22
 image: /assets/images/markdown.jpg
 headerImage: false
-hidden: false
+hidden: true
 tag:
 - Java
 - AP Computer Science
