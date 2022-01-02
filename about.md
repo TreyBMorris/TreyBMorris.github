@@ -15,30 +15,25 @@ layout: page
 <p> This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects.</p>
                 
     
-
 <h2>Skills</h2>
-
 <ul class="skill-list">
 	<li>Intermediate HTML Skills</li>
-	<li>Fundementals of Programming Languages such as Java and C#.</li>
-	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>
-	<li>Basic Understanding of Installation and Usage of System Virtual Machines(ex.<a href="https://www.virtualbox.org/">VirtualBox</a>)</li>
-	
-	
+	<li>Knowledge of Programming Languages such as Java, C#, and Python.</li>
+	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>	
 </ul>
-<h2>Career Aspirations</h2>
 
+<h2>Career Aspirations</h2>
 <ul class="career-aspirations">
 	<li>Graduate College with a 3.5+ GPA</li>
 	<li>Job Aspiration- A Promising Role in the Booming Tech Industry</li>	
 </ul>
-<h2>Projects</h2>
 
+<h2>Projects</h2>
 <ul>'
 	<li><a href = "https://github.com/TreyBMorris/2012GeneralElectionResultsSearch">2012 Presidential General Election Result Searcher.</a></li>
 	<li><a href="https://github.com/TreyBMorris/FizzBuzz">FizzBuzz Test, written in Java, November 2019 when I started learning how to write programs.</a></li>
 	<li><a href="https://github.com/TreyBMorris/FizzBuzzCSharp">FizzBuzz Test, rewritten into C#.</a></li>
-	<li><a href="https://github.com/TreyBMorris/Password-Generator-Java">Java Password Generator 1.0</a></li>
+	<li><a href="https://github.com/TreyBMorris/Password-Generator-Java">Java Password Generator (Written for my APCS Class.)</a></li>
 	
 	
 </ul>
