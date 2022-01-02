@@ -55,8 +55,8 @@ email: trey@morris2morris.com
 authors:
   treymorris:
     name: Trey Morris
-    bio: Computer Science Student
-    external-image: false
+    bio: 
+    external-image: true
     picture: https://avatars3.githubusercontent.com/u/24595938?s=460&u=ad8aa00df53c02a52ffdca2a17eba7aaa7edb882&v=4
     #twitter: johndoe
 
