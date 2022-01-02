@@ -19,7 +19,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Basic HTML Skills</li>
+	<li>Intermediate HTML Skills</li>
 	<li>Fundementals of Programming Languages such as Java and C#.</li>
 	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>
 	<li>Basic Understanding of Installation and Usage of System Virtual Machines(ex.<a href="https://www.virtualbox.org/">VirtualBox</a>)</li>
@@ -30,13 +30,13 @@ layout: page
 
 <ul class="career-aspirations">
 	<li>Graduate College with a 3.5+ GPA</li>
-	<li>Job Aspiration- Fulltime Software Developer</li>	
+	<li>Job Aspiration- A Promising Role in the Booming Tech Industry</li>	
 </ul>
 <h2>Projects</h2>
 
 <ul>'
 	<li><a href = "https://github.com/TreyBMorris/2012GeneralElectionResultsSearch">2012 Presidential General Election Result Searcher.</a></li>
-	<li><a href="https://github.com/TreyBMorris/FizzBuzz">FizzBuzz Test, written in Java, November 2019.</a></li>
+	<li><a href="https://github.com/TreyBMorris/FizzBuzz">FizzBuzz Test, written in Java, November 2019 when I started learning how to write programs.</a></li>
 	<li><a href="https://github.com/TreyBMorris/FizzBuzzCSharp">FizzBuzz Test, rewritten into C#.</a></li>
 	<li><a href="https://github.com/TreyBMorris/Password-Generator-Java">Java Password Generator 1.0</a></li>
 	
@@ -46,7 +46,7 @@ layout: page
 <h3><strong>Contact Me</strong></h3>
 <ul class = "contact-info">
 	<li>Github: <a href="https://github.com/TreyBMorris">treybmorris</a></li>
-	<li>LinkedIn: <a href="https://www.linkedin.com/in/trey-morris-98b110211/">Trey Morris</a></li>
+	<li>LinkedIn: <a href="https://www.linkedin.com/in/treybmorris/">Trey Morris</a></li>
 	<li>Email:<a href="mailto:trey@morris2morris.com">trey@morris2morris.com</a></li>
 </ul>
 
