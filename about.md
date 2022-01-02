@@ -29,13 +29,11 @@ layout: page
 </ul>
 
 <h2>Projects</h2>
-<ul>'
+<ul>
 	<li><a href = "https://github.com/TreyBMorris/2012GeneralElectionResultsSearch">2012 Presidential General Election Result Searcher.</a></li>
 	<li><a href="https://github.com/TreyBMorris/FizzBuzz">FizzBuzz Test, written in Java, November 2019 when I started learning how to write programs.</a></li>
 	<li><a href="https://github.com/TreyBMorris/FizzBuzzCSharp">FizzBuzz Test, rewritten into C#.</a></li>
 	<li><a href="https://github.com/TreyBMorris/Password-Generator-Java">Java Password Generator (Written for my APCS Class.)</a></li>
-	
-	
 </ul>
 
 <h3><strong>Contact Me</strong></h3>
