@@ -20,6 +20,7 @@ layout: page
 	<li>Intermediate HTML Skills</li>
 	<li>Knowledge of Programming Languages such as Java, C#, and Python.</li>
 	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>	
+	<li> IT Operations </li>
 </ul>
 
 <h2>Career Aspirations</h2>
