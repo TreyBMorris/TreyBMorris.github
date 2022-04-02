@@ -1,6 +1,6 @@
 # main text of home
 name: Trey Morris
-bio: Computer Science Student
+bio: Computer Science Student| Webstie Freelancing
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -17,7 +17,7 @@ resume-external: true
 resume-url: https://docs.google.com/document/d/e/2PACX-1vTmsmP8vYDq--lHg5gfLv6UU1nQsjF5RXJobg4yzB5zZvTJdMhhMgpmuG2bE_kiQw/pub
 
 url: https://TreyBMorris.github.io
-# your url: https://USERNAME.github.io
+your url: treymorris.me
 
 permalink: /:title/
 
