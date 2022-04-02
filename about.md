@@ -12,12 +12,15 @@ layout: page
 
 <p> While in school, I plan on participating in an internship or co-op program for real industry experience, as well as study abroad opportunities in Europe in Germany or another German speaking country.</p>
 
-<p> This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects.</p>
-                
-    
+<p> This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects. </p>
+
+<h2>Web Development Experience</h2>
+<p> I have experience with website development. I've spent various years writing small little websites for myself, friends, and other small projects for school. My skills in HTML are backed by the LinkedIn HTML Badge that you can find on my LinkedIn page. I have a good amount of knowledge with Bootstrap studio. I also have Knowledge of CSS and I am currently diving into learning Javascript and developing those skills.</p>
+
+
 <h2>Skills</h2>
 <ul class="skill-list">
-	<li>Intermediate HTML Skills</li>
+	<li>HTML Knowledge (Backed by LinkedIn Badge)</li>
 	<li>Experience with Bootstrap Studio</li>
 	<li>Knowledge of Programming Languages such as Java, C#, and Python.</li>
 	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>
