@@ -18,7 +18,7 @@ layout: page
 <h2>Skills</h2>
 <ul class="skill-list">
 	<li>Intermediate HTML Skills</li>
-	<li>Bootstrap</li>
+	<li>Experience with Bootstrap Studio</li>
 	<li>Knowledge of Programming Languages such as Java, C#, and Python.</li>
 	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>	
 	<li> IT Operations </li>
