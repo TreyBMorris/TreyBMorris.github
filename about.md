@@ -15,7 +15,7 @@ layout: page
 <p> This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects. </p>
 
 <h2>Web Development Experience</h2>
-<p> I have various amounts of experience with website development. I've spent various years writing small little websites for myself, friends, and other small projects for school. My skills in HTML are backed by the LinkedIn HTML Badge that you can find on my LinkedIn page. I have a good amount of knowledge with Bootstrap Studio. I also have knowledge of CSS and I am currently diving into learning Javascript and developing those skills.</p>
+<p> I have various amounts of experience with website development. I've spent various years writing small little websites for myself, friends, and other small projects for school. My skills in HTML are backed by the LinkedIn HTML Badge that you can find on my LinkedIn page. I have a good amount of knowledge with Bootstrap Studio. I also have knowledge of CSS and I am currently diving into learning Javascript and developing those skills. I have a live professional website demo that you can find <a href="http://treymorris.me/Live-Professional-Demo/">here</a> and a personal website demo will be available soon.</p>
 
 
 <h2>Skills</h2>
