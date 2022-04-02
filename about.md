@@ -20,8 +20,9 @@ layout: page
 	<li>Intermediate HTML Skills</li>
 	<li>Experience with Bootstrap Studio</li>
 	<li>Knowledge of Programming Languages such as Java, C#, and Python.</li>
-	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>	
+	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>
 	<li> IT Operations </li>
+	<li>Elementary Level of German</li>
 </ul>
 
 <h2>Career Aspirations</h2>
@@ -34,7 +35,7 @@ layout: page
 <ul>
 	<li><a href = "https://github.com/TreyBMorris/2012GeneralElectionResultsSearch">2012 Presidential General Election Result Searcher.</a></li>
 	<li><a href="https://github.com/TreyBMorris/FizzBuzz">FizzBuzz Test, written in Java, November 2019 when I started learning how to write programs.</a></li>
-	<li><a href="https://github.com/TreyBMorris/Fortune-Cookies">Fortune-Cookie Generator</a></li>
+	<li><a href="https://github.com/TreyBMorris/Fortune-Cookies">Fortune-Cookie Generator written in Python</a></li>
 	<li><a href="https://github.com/TreyBMorris/Password-Generator-Java">Java Password Generator (Written for my APCS Class.)</a></li>
 </ul>
 
