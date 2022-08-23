@@ -6,26 +6,35 @@ layout: page
 
 <h1>About Me</h1>
 
-<p>My name is Trey Morris, and I like computers.</p>
+<p>My name is Trey Morris, and write programs.</p>
 
 <p> Since a young age I have had a passion with a deep interest in computers and a desire to always want to learn more about computing. I am currently a computer science student at Kennesaw State University in Marietta, Georgia, where I am working on an undergraduate degree in Computer Science.</p>
+
+<p> My first experience into the world of Computer Science was writing static HTML pages for school projects and for friends in my free time. My skills in HTML are backed by the LinkedIn HTML Badge that you can find on my LinkedIn page. Since then, I have expanded my skills and knowledge by diving into writing programs in Java and Python. Recently I have expanded my knowledge by learning about Database Systems, operations, and management through my schooling. I am eager and willing to earn more experience in the field of Computer Science through teachings, self exploration, real world experience, and more.</p> 
 
 <p> While in school, I plan on participating in an internship or co-op program for real industry experience, as well as study abroad opportunities in Europe in Germany or another German speaking country.</p>
 
 <p> This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects. </p>
 
-<h2>Web Development Experience</h2>
-<p> I have various amounts of experience with website development. I've spent various years writing small little websites for myself, friends, and other small projects for school. My skills in HTML are backed by the LinkedIn HTML Badge that you can find on my LinkedIn page. I have a good amount of knowledge with Bootstrap Studio. I also have knowledge of CSS and I am currently diving into learning Javascript and developing those skills. I have a live professional website demo that you can find <a href="http://treymorris.me/Live-Professional-Demo/">here</a> and a personal website demo will be available soon.</p>
-
 
 <h2>Skills</h2>
 <ul class="skill-list">
-	<li>HTML Knowledge (Backed by LinkedIn Badge)</li>
-	<li>Experience with Bootstrap Studio</li>
-	<li>Knowledge of Programming Languages such as Java, C#, and Python.</li>
-	<li>Learning Introductory Knowledge of Linux/Linux Kernels.</li>
-	<li> IT Operations </li>
+	<h4>Front End Knowlege:</h4>
+	<li>HTML(Backed by LinkedIn Badge), Familiar with JavaScript and React JS</li>
+	<h4>Object Oriented Programming:</h4>
+	<li>Familiar with Programming Languages such as Java and Python.</li>
+	<h4>Source Control:</h4>
+	<li>Familiar with Source Control using GitHub</li>
+	<h4>Databases:</h4>
+	<li>Familiar with Databases, Relational Databases, and MS SQL</li> 
+	<h4>Languages:</h4>
+	<li>Native English Speaker</li> 
 	<li>Elementary Level of German</li>
+	<h4>Other Important Skills</h4>
+	<li>Strong and effective communication skills</li>
+	<li>Versatile leadership</li>
+	<li>Self Motivated</li>
+	
 </ul>
 
 <h2>Career Aspirations</h2>
