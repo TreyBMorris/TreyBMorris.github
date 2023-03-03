@@ -6,7 +6,7 @@ layout: page
 
 <h1>About Me</h1>
 
-<p>My name is Trey Morris, and write programs.</p>
+<p>My name is Trey Morris, and I write programs.</p>
 
 <p> Since a young age I have had a passion with a deep interest in computers and a desire to always want to learn more about computing. I am currently a computer science student at Kennesaw State University in Marietta, Georgia, where I am working on an undergraduate degree in Computer Science.</p>
 
