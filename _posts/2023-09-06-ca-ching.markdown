@@ -1,0 +1,41 @@
+---
+title: ":money_with_wings: Ca-Ching! :money_with_wings:"
+layout: post
+tag: Java Project
+date: 2023-09-06
+image: 
+headerImage: false
+projects: true
+hidden: false
+description: A Currency Conversion Application
+category: project
+author: treymorris
+externalLink: false
+---
+
+## What is this project about?
+This project was inspired by my time in Germany, I had just returned back to the United States after being abroad for two months for June and July. I was having to readjust to the USD currency and remembering the value of the dollar. With this, I decided to make "Ca-Ching!" a currency conversion application. With this application, you are able to convert to and from various different currencies from around the world. 
+
+
+### What  did I use for this project?
+This was written in pure JavaScript, HTML, and CSS. I had a Python script that accessed an API, listed at the bottom of the page, that accesses and pulls information from the API, then returns the information to a JSON file. The JavaScript reads the JSON data and parses it. The JavaScript handles the functions such as changing the text body and handling user input. Since I did not use a JS framework, the website is fully written on the UI/UX side with pure HTML and CSS. 
+
+
+
+
+
+### Conclusion
+
+This project was written to showcase my pure JavaScript, HTML, and CSS skills. This was written from the ground up with no CSS or HTML templates. With this project I also learned more about source control and working within different branches, instead of committing directly to the main branch. This project pushed me to write code and expand on my knowledge of JavaScript and how JavaScript works.
+
+
+
+#### Links to resources
+
+* The live website can be found [here](http://ca-ching.site/)
+* The ExchangeRate API can be found [here](https://www.exchangerate-api.com/)
+
+
+---
+
+Check out the project on github [here](https://github.com/TreyBMorris/CurrencyConversion).

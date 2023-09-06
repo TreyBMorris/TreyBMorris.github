@@ -12,7 +12,6 @@ layout: page
 
 <p> My first experience into the world of Computer Science was writing static HTML pages for school projects and for friends in my free time. My skills in HTML are backed by the LinkedIn HTML Badge that you can find on my LinkedIn page. Since then, I have expanded my skills and knowledge by diving into writing programs in Java and Python. Recently I have expanded my knowledge by learning about Database Systems, operations, and management through my schooling. I am eager and willing to earn more experience in the field of Computer Science through teachings, self exploration, real world experience, and more.</p> 
 
-<p> While in school, I plan on participating in an internship or co-op program for real industry experience, as well as study abroad opportunities in Europe in Germany or another German speaking country.</p>
 
 <p> This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects. </p>
 
