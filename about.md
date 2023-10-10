@@ -6,29 +6,33 @@ layout: page
 
 <h1>About Me</h1>
 
-<p>My name is Trey Morris, and I write programs.</p>
+<p>My name is Trey Morris, and I write code.</p>
 
-<p> Since a young age I have had a passion with a deep interest in computers and a desire to always want to learn more about computing. I am currently a computer science student at Kennesaw State University in Marietta, Georgia, where I am working on an undergraduate degree in Computer Science.</p>
+<p> Since a young age, I've had a passion with computers and a desire to always want to learn more about computing. I am currently studying as an undergrad Computer Science Student at Kennesaw State University in Marietta, Georgia.</p>
 
-<p> My first experience into the world of Computer Science was writing static HTML pages for school projects and for friends in my free time. My skills in HTML are backed by the LinkedIn HTML Badge that you can find on my LinkedIn page. Since then, I have expanded my skills and knowledge by diving into writing programs in Java and Python. Recently I have expanded my knowledge by learning about Database Systems, operations, and management through my schooling. I am eager and willing to earn more experience in the field of Computer Science through teachings, self exploration, real world experience, and more.</p> 
+<p> My first experience into the world of Computer Science, was writing static HTML pages for school projects and for friends in my free time. My skills in HTML are backed by the LinkedIn HTML Badge that you can find on my LinkedIn page. Since then, I have expanded my skills and knowledge by diving into writing programs in Java and Python. Recently, I have expanded my knowledge by learning about Database Systems, Data Structures, and Software Engineering through my schooling. In my free time, I enjoy exploring the world of Full-Stack development, learning frameworks such as .NET with Blazor, to Java Spring Boot. I am eager and willing to earn more experience in the field of Computer Science through teachings, self exploration, real world experience, and more.</p> 
 
 
-<p> This website is to give a general overview of my Computer Science knowledge and serve basic portfolio of my projects. </p>
+<p> This website is to give a general overview of my Computer Science/Software Engineering knowledge and serve basic portfolio of my projects. </p>
 
 
 <h2>Skills</h2>
 <ul class="skill-list">
-	<h4>Front End Knowlege:</h4>
-	<li>HTML(Backed by LinkedIn Badge), Familiar with JavaScript and React JS</li>
+	<h4>Front End Knowledge:</h4>
+	<li>HTML(Backed by LinkedIn Badge), Familiar with JavaScript and CSS. Learning Frameworks such as React JS and Angular</li>
+	<h4>Back End Knowldge</h4>
+	<li>Worked with MongoDB and Azure to serve as an API for a Blazor Server Application for a School Project</li>
 	<h4>Object Oriented Programming:</h4>
-	<li>Familiar with Programming Languages such as Java and Python.</li>
+	<li>Familiar with Programming Languages such as Java, C#, and Python</li>
 	<h4>Source Control:</h4>
 	<li>Familiar with Source Control using GitHub</li>
 	<h4>Databases:</h4>
-	<li>Familiar with Databases, Relational Databases, and MS SQL</li> 
+	<li>Familiar with Databases, Relational Databases, MS SQL, and MongoDB</li> 
 	<h4>Languages:</h4>
 	<li>Native English Speaker</li> 
-	<li>Elementary Level of German</li>
+	<li>Intermediate Level of German</li>
+	<h4>Leadership</h4>
+	<li>Served as the Technical Lead for a E-Commerce project for my Intro To Software Engineering class. Here I led the team in design and development of the product. I also produced technical documentation as well as code, mainly for the back-end of the product.</li>
 	<h4>Other Important Skills</h4>
 	<li>Strong and effective communication skills</li>
 	<li>Versatile leadership</li>
