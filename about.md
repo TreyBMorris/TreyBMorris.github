@@ -8,9 +8,9 @@ layout: page
 
 <p>My name is Trey Morris, and I write code.</p>
 
-<p> Since a young age, I've had a passion with computers and a desire to always want to learn more about computing. I am currently studying as an undergrad Computer Science Student at Kennesaw State University in Marietta, Georgia.</p>
+<p> Since a young age, I've had a passion with computers and a desire to always want to learn more about computing. I am currently studying as a Computer Science Student at Kennesaw State University in Marietta, Georgia.</p>
 
-<p> My first experience into the world of Computer Science, was writing static HTML pages for school projects and for friends in my free time. My skills in HTML are backed by the LinkedIn HTML Badge that you can find on my LinkedIn page. Since then, I have expanded my skills and knowledge by diving into writing programs in Java and Python. Recently, I have expanded my knowledge by learning about Database Systems, Data Structures, and Software Engineering through my schooling. In my free time, I enjoy exploring the world of Full-Stack development, learning frameworks such as .NET with Blazor, Java Spring Boot, and front-end frameworks such as Angular. I am eager and willing to earn more experience in the field of Computer Science through teachings, self exploration, real world experience, and more.</p> 
+<p> My first experience into the world of Computer Science, was writing static HTML pages for school projects and for friends in my free time. Since then, I have expanded my skills and knowledge by diving into writing programs in Java and Python. Recently, I have expanded my knowledge by learning about Database Systems, Data Structures, and Software Engineering through my schooling. In my free time, I enjoy exploring the world of Full-Stack development, learning frameworks such as .NET with Blazor, Java Spring Boot, and front-end frameworks such as Angular. I am eager and willing to earn more experience in the field of Computer Science through teachings, self exploration, real world experience, and more.</p> 
 
 
 <p> This website is to give a general overview of my Computer Science/Software Engineering knowledge and serve basic portfolio of my projects. </p>
@@ -24,10 +24,10 @@ layout: page
 	<li>Worked with MongoDB and Azure to serve as an API for a Blazor Server Application for a School Project</li>
 	<h4>Object Oriented Programming:</h4>
 	<li>Familiar with Programming Languages such as Java, C#, and Python</li>
-	<h4>Source Control:</h4>
-	<li>Familiar with Source Control using GitHub</li>
 	<h4>Databases:</h4>
-	<li>Familiar with Databases, Relational Databases, MS SQL, and MongoDB</li> 
+	<li>Familiar with both relational and non-relational databases. I have worked with MS SQL, and CosmosDB/MongoDB for different projects.</li> 
+	<h4>Practical Software Engineering Concepts</h4>
+	<li>I am familiar with software engineering concepts, such as agile methodologies, writing unit tests, and writing clean detailed documentation. I have also been using GitHub for years to host my own personal projects, and have actively used source control with these projects.</li>
 	<h4>Languages:</h4>
 	<li>Native English Speaker</li> 
 	<li>Intermediate Level of German</li>
@@ -37,6 +37,8 @@ layout: page
 	<li>Strong and effective communication skills</li>
 	<li>Versatile leadership</li>
 	<li>Self Motivated</li>
+	<li>Team Oriented Developer</li>
+	<li></li>
 	
 </ul>
 
