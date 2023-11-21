@@ -10,20 +10,20 @@ layout: page
 
 <p> Since a young age, I've had a passion with computers and a desire to always want to learn more about computing. I am currently studying as a Computer Science Student at Kennesaw State University in Marietta, Georgia.</p>
 
-<p> My first experience into the world of Computer Science, was writing static HTML pages for school projects and for friends in my free time. Since then, I have expanded my skills and knowledge by diving into writing programs in Java and Python. Recently, I have expanded my knowledge by learning about Database Systems, Data Structures, and Software Engineering through my schooling. In my free time, I enjoy exploring the world of Full-Stack development, learning frameworks such as .NET with Blazor, Java Spring Boot, and front-end frameworks such as Angular. I am eager and willing to earn more experience in the field of Computer Science through teachings, self exploration, real world experience, and more.</p> 
+<p> My first experience into the world of computer science, was writing static HTML pages for school projects and for friends in my free time. Since then, I have expanded my skills and knowledge by diving into writing programs in Java, C#, and Python. Recently, I have learned more about database Systems, data structures, and software engineering through my schooling. In my free time, I enjoy exploring the world of full-stack development, learning frameworks such as .NET with Blazor Server, Java Spring Boot, and front-end frameworks such as Angular. I am eager and willing to earn more experience in the field of Computer Science through teachings, self exploration, real world experience, and more.</p> 
 
 
-<p> This website is to give a general overview of my Computer Science/Software Engineering knowledge and serve basic portfolio of my projects. </p>
+<p> This website is to give a general overview of my computer Science and software engineering knowledge and serve as a basic portfolio of my projects. </p>
 
 
 <h2>Skills</h2>
 <ul class="skill-list">
 	<h4>Front End Knowledge:</h4>
-	<li>HTML(Backed by LinkedIn Badge), Familiar with JavaScript and CSS. Learning Frameworks such as React JS and Angular</li>
+	<li>HTML(Backed by LinkedIn Badge), familiar with JavaScript and CSS. Learning front-end frameworks such as React JS and Angular</li>
 	<h4>Back End Knowldge:</h4>
-	<li>Worked with MongoDB and Azure to serve as an API for a Blazor Server Application for a School Project</li>
+	<li>Worked with MongoDB and Azure to serve as an API for a Blazor Server application for a school project</li>
 	<h4>Object Oriented Programming:</h4>
-	<li>Familiar with Programming Languages such as Java, C#, and Python</li>
+	<li>Familiar with programming languages such as Java, C#, and Python</li>
 	<h4>Databases:</h4>
 	<li>Familiar with both relational and non-relational databases. I have worked with MS SQL, and CosmosDB/MongoDB for different projects.</li> 
 	<h4>Practical Software Engineering Concepts</h4>
@@ -32,20 +32,18 @@ layout: page
 	<li>Native English Speaker</li> 
 	<li>Intermediate Level of German</li>
 	<h4>Leadership:</h4>
-	<li>Served as the Technical Lead for a E-Commerce project for my Intro To Software Engineering class. Here, I led the team in design and development of the product. I also produced technical documentation as well as code, mainly for the back-end of the product.</li>
+	<li>Served as the technical lead for a E-Commerce project for my Intro To Software Engineering class. Here, I led the team in design and development of the product. I helped produced technical documentation and code, mainly for the back-end of the product such as databases and APIs.</li>
 	<h4>Other Important Skills:</h4>
 	<li>Strong and effective communication skills</li>
 	<li>Versatile leadership</li>
 	<li>Self Motivated</li>
 	<li>Team Oriented Developer</li>
-	<li></li>
-	
 </ul>
 
 <h2>Career Aspirations</h2>
 <ul class="career-aspirations">
-	<li>Graduate College with a 3.5+ GPA, with a B.S. in Computer Science and a Minor in German Studies.</li>
-	<li>Job Aspiration- A Promising Role in the Booming Tech Industry</li>	
+	<li>Graduate with a 3.5+ GPA, with a B.S. in Computer Science and a Minor in German Studies.</li>
+	<li>Job Aspiration- A promising role in the booming tech industry</li>	
 </ul>
 
 <h2>Projects</h2>
