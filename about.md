@@ -10,16 +10,15 @@ layout: page
 
 <p> Since a young age, I've had a passion with computers and a desire to always want to learn more about computing. I am currently studying as a Computer Science Student at Kennesaw State University in Marietta, Georgia.</p>
 
-<p> My first experience into the world of computer science was writing static HTML pages for school projects and for friends in my free time. Since then, I have expanded my skills and knowledge by diving into writing programs in Java, C#, and Python. Recently, I have learned more about database systems, data structures, and software engineering through my schooling. In my free time, I enjoy exploring the world of full-stack development, learning frameworks such as .NET with Blazor Server, Java Spring Boot, and front-end frameworks such as Angular and React. I am eager and willing to earn more experience in the field of Computer Science through teachings, self exploration, real world experience, and more.</p> 
+<p> My first experience into the world of computer science was writing static HTML pages for school projects and for friends in my free time. Since then, I have expanded my skills and knowledge by diving into writing programs in Java, C#, and Python. Recently, I have learned more about database systems, data structures, and software engineering through my schooling. In my free time, I enjoy exploring the world of full-stack development, learning frameworks such as .NET with Blazor Server, Java Spring Boot, and front-end frameworks like Angular. I am eager and willing to earn more experience in the field of Computer Science through teachings, self exploration, real world experience, and more.</p> 
 
 
-<p> This website is to give a general overview of my computer Science and software engineering knowledge and serve as a basic portfolio of my projects. </p>
 
 
 <h2>Skills</h2>
 <ul class="skill-list">
 	<h4>Front End Knowledge:</h4>
-	<li>HTML(Backed by LinkedIn Badge), familiar with JavaScript and CSS. Learning front-end frameworks such as React JS and Angular</li>
+	<li>HTML(Backed by LinkedIn Badge), familiar with JavaScript and CSS. Learning front-end frameworks like Angular</li>
 	<h4>Back End Knowldge:</h4>
 	<li>Worked with MongoDB and Azure to serve as an API for a Blazor Server application for a school project</li>
 	<h4>Object Oriented Programming:</h4>
@@ -42,17 +41,14 @@ layout: page
 
 <h2>Career Aspirations</h2>
 <ul class="career-aspirations">
-	<li>Graduate with a 3.5+ GPA, with a B.S. in Computer Science and a Minor in German Studies.</li>
+	<li>Graduate with a 3.5+ GPA, with a B.S. in Computer Science</li>
 	<li>Job Aspiration- A promising role in the booming tech industry</li>	
 </ul>
 
 <h2>Projects</h2>
 <ul>
 	<li><a href="https://github.com/TreyBMorris/CurrencyConversion"> A Currency Conversion Application in pure HTML, CSS, and JavaScript. Inspired by my trip to Germany.</a></li>
-	<li><a href = "https://github.com/TreyBMorris/2012GeneralElectionResultsSearch">2012 Presidential General Election Result Searcher.</a></li>
-	<li><a href="https://github.com/TreyBMorris/FizzBuzz">FizzBuzz Test, written in Java, November 2019 when I started learning how to write programs.</a></li>
-	<li><a href="https://github.com/TreyBMorris/Fortune-Cookies">Fortune-Cookie Generator written in Python</a></li>
-	<li><a href="https://github.com/TreyBMorris/Password-Generator-Java">Java Password Generator (Written for my APCS Class.)</a></li>
+	<li><a href="https://github.com/TreyBMorris/SpringDataRESTfulAPI"> A Spring Data RESTful API using MongoDB.</a></li>
 </ul>
 
 <h3><strong>Contact Me</strong></h3>
